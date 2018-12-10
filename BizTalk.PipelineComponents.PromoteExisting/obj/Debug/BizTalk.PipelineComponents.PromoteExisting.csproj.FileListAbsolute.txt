@@ -1,0 +1,10 @@
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\BizTalk.PipelineComponents.PromoteExisting.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\BizTalk.PipelineComponents.PromoteExisting.pdb
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\Microsoft.BizTalk.GlobalPropertySchemas.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\bin\Debug\Microsoft.XLANGs.Engine.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\obj\Debug\BizTalk.PipelineComponents.PromoteExisting.csprojResolveAssemblyReference.cache
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\obj\Debug\BizTalk.PipelineComponents.PromoteExisting.dll
+D:\work\BizTalk.PipelineComponents.PromoteExisting\BizTalk.PipelineComponents.PromoteExisting\obj\Debug\BizTalk.PipelineComponents.PromoteExisting.pdb
